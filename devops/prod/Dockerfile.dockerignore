@@ -1,0 +1,5 @@
+*
+!/devops/prod/requirements.txt
+!/devops/prod/gunicorn_conf.py
+!/devops/prod/docker-entrypoint.sh
+!/src
